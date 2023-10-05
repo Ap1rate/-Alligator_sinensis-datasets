@@ -5,4 +5,4 @@ A publicly available dataset for visual Detection and Segmentation of Alligator 
 
 
 
-#### If not,click here.[Download Link](https://drive.google.com/file/d/1CsL3lZkf927yPItMYKMOfuFpHWDwqQ2k/view?usp=sharing)
+#### If not,click here:[Download Link](https://drive.google.com/file/d/1CsL3lZkf927yPItMYKMOfuFpHWDwqQ2k/view?usp=sharing)
